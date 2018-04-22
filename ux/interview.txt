@@ -1,0 +1,12 @@
+How much time (daily/weekly) to you spend using the app?
+Can you tell me how you use product?
+Which activities do you spend the most time on?
+What is/are your worst pain point(s)?
+What does product allow you to accomplish that you otherwise couldn’t?
+Where does it fall short? What doesn’t it do (or do well) that you need it to?
+Have you used other similar products in the past? What were they?
+Which product is better? Which one is the best? Why?
+What kind of reports/documentation do you create?
+Who are the roles/people (coworker, PM, manager, developer, etc.) who receive your reports and what role do the people who receive your reports/documentation play?
+What are your goals or your ambitions for doing your job well?
+Is anything in the current product making it difficult for you to accomplish your goals? If so, please describe them for us.
