@@ -1,12 +1,67 @@
+Feelings: 
+- pleased with the site, but paying way to much
+- not getting money's worth for specific needs
+- paying for a lot of stuff they do not need right now
+- just need a professional looking site
+- currently $150 monthly (MoPro)
+- not too big on the way the icons look and the overall look
+- would like more animations and/or video (eye catching movement)
+- do not like the price
+- want ability to manage and upload own photos (need control)
+- just need a nice clean cirsp website
+- see some testimonials, before and after photos
+- would like to accept payments on site (Credit Card, Square)
+
 How much time (daily/weekly) to you spend using the app?
+- currently never took account for how their customers are using the site
+- owners never use the app
+- do not need customers to book right now
+
 Can you tell me how you use product?
+- need to be find on the internet (not using adsense or any SEO solution)
+- don't know how customers are finding the current site (need ability to track discovery)
+
 Which activities do you spend the most time on?
+- contact
+- need customers to have ability to leave/give review (also need to track)
+- need integration with Home Advisor reviews
+- need integration with Google Reviews
+
+
 What is/are your worst pain point(s)?
+- none
+- just paying too much for website services
+
 What does product allow you to accomplish that you otherwise couldn’t?
-Where does it fall short? What doesn’t it do (or do well) that you need it to?
+- reaching customers that they have not had contact with or referred customers
+
+Where does it fall short? 
+- testimonials (giving/tracking/showing)
+
+What doesn’t it do (or do well) that you need it to?
+- show up in top search results (SEO optimization)
+
 Have you used other similar products in the past? What were they?
+- have not taken the time to check other cleaning services websites.
+- want current site to look "bigger than what we are"
+
 Which product is better? Which one is the best? Why?
+-N/A
+
 What kind of reports/documentation do you create?
+- currently not reporting or using reports for anything
+- need social media management software (BufferApp, Hootsuite)
+
+
 Who are the roles/people (coworker, PM, manager, developer, etc.) who receive your reports and what role do the people who receive your reports/documentation play?
+- most of customers are businesses (mostly word of mouth)
+- most website traffic from private homes
+
+
 What are your goals or your ambitions for doing your job well?
+- more effecient scheduling of jobs and recources
+- 
+
+
 Is anything in the current product making it difficult for you to accomplish your goals? If so, please describe them for us.
+- NA
